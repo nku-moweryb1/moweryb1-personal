@@ -5,7 +5,6 @@ document.addEventListener("DOMContentLoaded", () => {
     const enlargedImage = document.getElementById("enlargedImage");
     const closeBtn = document.getElementById("closeBtn");
 
-    // Placeholder images array
     const images = [
         "../img/1.jpg",
         "../img/2.jpg",
